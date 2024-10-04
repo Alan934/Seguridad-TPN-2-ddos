@@ -13,6 +13,7 @@
   <h3>Back-End</h3>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-2596be.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+  <img src="https://help.wnpower.com/hc/article_attachments/24770768872077" width="66"/>
 </div>
 <br>
 
@@ -34,7 +35,7 @@
 <div align="center">
   <a href="https://docs.nestjs.com/">Haz clic aquí para ver la documentacion con mas detalle</a>
 </div>
-
+<br>
 Paso 1: Instalar Node.js y npm
 
 1. Descargar Node.js:
