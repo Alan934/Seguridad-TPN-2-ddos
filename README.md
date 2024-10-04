@@ -88,33 +88,33 @@ Nota Adicional
     <td>
       <div align="center">
         <a href="https://github.com/GabrielAvalos77" target="_blank" rel="author">
-          <img width="120" height="170" src="https://res.cloudinary.com/de9ojxknm/image/upload/v1723054573/Fotos%20Equipo/hr73wydp5x8pyq8uvvci.jpg"/>
+          <img width="120" height="170" src="https://res.cloudinary.com/dbqxzetyp/image/upload/v1728020220/Fotos%20Perfil/pzlnl3oweluhfoxw8thi.jpg"/>
         </a>
           <h5 style="margin-top: 1rem;">Gabriel Avalos</h5>
         <a href="https://github.com/GabrielAvalos77" target="_blank">
-          <img src="https://res.cloudinary.com/dbqxzetyp/image/upload/v1728020220/Fotos%20Perfil/pzlnl3oweluhfoxw8thi.jpg"/>
+          <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
         </a>
       </div>
     </td>
     <td>
       <div align="center">
         <a href="https://github.com/franlugea" target="_blank" rel="author">
-          <img width="120" height="170" src="https://res.cloudinary.com/de9ojxknm/image/upload/v1723055774/Fotos%20Equipo/mswukw8y2nnopelibqer.jpg"/>
+          <img width="120" height="170" src="https://res.cloudinary.com/dbqxzetyp/image/upload/v1728020221/Fotos%20Perfil/i38tf0ez5cfjath1h9qs.jpg"/>
         </a>
           <h5 style="margin-top: 1rem;">Francisco Lugea</h5>
         <a href="https://github.com/franlugea" target="_blank">
-          <img src="https://res.cloudinary.com/dbqxzetyp/image/upload/v1728020221/Fotos%20Perfil/i38tf0ez5cfjath1h9qs.jpg"/>
+          <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
         </a>
       </div>
     </td>
     <td>
       <div align="center">
         <a href="https://github.com/Kenchu293" target="_blank" rel="author">
-          <img width="120" height="170" src="https://res.cloudinary.com/de9ojxknm/image/upload/v1723055187/Fotos%20Equipo/qmrwvusmkhvwn1r4mwhb.jpg"/>
+          <img width="120" height="170" src="https://res.cloudinary.com/dbqxzetyp/image/upload/v1728020221/Fotos%20Perfil/ln1y84fyveyakzndd2v8.jpg"/>
         </a>
           <h5 style="margin-top: 1rem;">Jesus Infante</h5>
         <a href="https://github.com/Kenchu293" target="_blank">
-          <img src="https://res.cloudinary.com/dbqxzetyp/image/upload/v1728020221/Fotos%20Perfil/ln1y84fyveyakzndd2v8.jpg"/>
+          <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
         </a>
       </div>
     </td>
