@@ -92,7 +92,7 @@ Nota Adicional
         </a>
           <h5 style="margin-top: 1rem;">Gabriel Avalos</h5>
         <a href="https://github.com/GabrielAvalos77" target="_blank">
-          <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
+          <img src="https://res.cloudinary.com/dbqxzetyp/image/upload/v1728020220/Fotos%20Perfil/pzlnl3oweluhfoxw8thi.jpg"/>
         </a>
       </div>
     </td>
@@ -103,7 +103,7 @@ Nota Adicional
         </a>
           <h5 style="margin-top: 1rem;">Francisco Lugea</h5>
         <a href="https://github.com/franlugea" target="_blank">
-          <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
+          <img src="https://res.cloudinary.com/dbqxzetyp/image/upload/v1728020221/Fotos%20Perfil/i38tf0ez5cfjath1h9qs.jpg"/>
         </a>
       </div>
     </td>
@@ -114,7 +114,7 @@ Nota Adicional
         </a>
           <h5 style="margin-top: 1rem;">Jesus Infante</h5>
         <a href="https://github.com/Kenchu293" target="_blank">
-          <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=172B4D&logo=GitHub&logoColor=FFFFFF&label="/>
+          <img src="https://res.cloudinary.com/dbqxzetyp/image/upload/v1728020221/Fotos%20Perfil/ln1y84fyveyakzndd2v8.jpg"/>
         </a>
       </div>
     </td>
