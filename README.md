@@ -11,11 +11,11 @@
 
 <div align="center">
   <h3>Back-End</h3>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-2596be.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-  <img src="https://help.wnpower.com/hc/article_attachments/24770768872077" width="66"/>
-  <img src="https://res.cloudinary.com/dbqxzetyp/image/upload/v1728021189/logos/lsyvxshyccfkwflpipdz.svg" width="auto" height="30" />
-  <img src="https://res.cloudinary.com/dbqxzetyp/image/upload/v1728021207/logos/oybqiwgnrp3ehkvl6iru.png" width="66"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/TypeScript-2596be.svg?style=for-the-badge&logo=TypeScript&logoColor=white" height="30"/>
+  <img src="https://help.wnpower.com/hc/article_attachments/24770768872077" width="66" height="30"/>
+  <img src="https://res.cloudinary.com/dbqxzetyp/image/upload/v1728021653/logos/vatz66wyxkcjy6plsvyj.png" width="auto" height="30" />
+  <img src="https://res.cloudinary.com/dbqxzetyp/image/upload/v1728021207/logos/oybqiwgnrp3ehkvl6iru.png" width="66" height="30"/>
 </div>
 <br>
 
