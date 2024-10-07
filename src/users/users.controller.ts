@@ -2,6 +2,7 @@ import { Controller, Get, Post, Put, Delete, Param, Body, UseGuards } from '@nes
 import { UsersService } from './users.service';
 import { CreateUserDto } from './dto/create-user.dto';
 import { JwtAuthGuard } from '../auth/auth.guard';
+import { UpdateUserDto } from './dto/update-user.dto';
 
 @Controller('users')
 export class UsersController {
@@ -24,7 +25,7 @@ export class UsersController {
   }
 
   @Put(':id')
-  update(@Param('id') id: number, @Body() updateUserDto: CreateUserDto) {
+  update(@Param('id') id: number, @Body() updateUserDto: UpdateUserDto) {
     return this.usersService.update(Number(id), updateUserDto);
   }
 
