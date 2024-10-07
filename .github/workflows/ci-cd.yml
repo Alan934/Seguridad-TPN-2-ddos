@@ -21,17 +21,17 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '20'  # Cambia esto a la versión de Node.js que estés usando
+          node-version: '20'
 
       - name: Install dependencies
         run: npm install
 
       - name: Build the project
-        run: npm run build  # Asegúrate de tener un script de build en tu package.json
+        run: npm run build
 
   test:
     runs-on: ubuntu-latest
-    needs: build  # Este job depende del job de build
+    needs: build
 
     steps:
       - name: Check out code
@@ -40,10 +40,10 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '20'  # Cambia esto a la versión de Node.js que estés usando
+          node-version: '20'
 
       - name: Install dependencies
         run: npm install
 
       - name: Run tests
-        run: npm run test  # Asegúrate de tener un script de test en tu package.json
+        run: npm run test
