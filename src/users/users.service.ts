@@ -14,14 +14,33 @@ export class UsersService extends PrismaClient implements OnModuleInit {
 
     getAll(){
         try {
-            return this.usuario.findMany();
+            return this.usuario.findMany({
+                select: {
+                    id: true,
+                    nombre: true,
+                    apellido: true,
+                    edad: true,
+                    email: true,
+                    role: true,
+                },
+            });
         } catch (error) {
             throw new Error(error);
         }
     }
 
     async getOne(id: number){
-        const user = await this.usuario.findUnique({where: {id}});
+        const user = await this.usuario.findUnique({
+            where: {id},
+            select: {
+                id: true,
+                nombre: true,
+                apellido: true,
+                edad: true,
+                email: true,
+                role: true,
+            },
+        });
         try {
             if(!user){
                 throw new NotFoundException(`User with ID ${id} not found`);
@@ -33,7 +52,9 @@ export class UsersService extends PrismaClient implements OnModuleInit {
     }
 
     async findByEmail(email: string) {
-        const user = await this.usuario.findUnique({ where: { email } });
+        const user = await this.usuario.findUnique({ 
+            where: { email }
+        });
         if (!user) {
             throw new NotFoundException(`User with email ${email} not found`);
         }
