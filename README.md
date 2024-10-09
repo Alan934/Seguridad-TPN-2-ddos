@@ -95,17 +95,22 @@ Nota Adicional
 ## Documentacion y Mejores Practicas
 
   1. Documentacion del proceso de gestion de secretos
+  
     - Variables de entorno: Usa un archivo .env para almacenar secretos. Este archivo nunca debe ser comprometido ni subido al control de versiones.
     - Protección del archivo .env: Añadirlo el archivo al .gitignore para evitar que se suba al repositorio.
     - Uso en código: Para acceder a las variables de entorno en NestJS, puedes usar el módulo @nestjs/config.
     - Almacenamiento seguro: Para entornos de producción, se recomienda usar servicios como AWS Secrets Manager, HashiCorp Vault o similares para gestionar las credenciales de forma más segura.
+  
   2. Mejores practicas de seguridad
+
     - Autenticación y Autorización:
       . Implementa autenticación con JWT u OAuth para proteger los endpoints.
       . Define roles y permisos para diferentes acciones (getone, getall, create, delete, update).
+  
     - Validación y Sanitización de Datos:
       . Usa class-validator y class-transformer para validar y sanear la entrada de datos en los DTOs.
       . CORS: Configura el CORS para restringir los dominios que pueden acceder a la API.
+  
     - Tasas de Petición (Rate Limiting):
       . Usa la librería @nestjs/throttler para evitar ataques de fuerza bruta limitando la cantidad de solicitudes.
       . Uso de HTTPS: Asegúrate de que el servidor esté configurado para utilizar HTTPS en entornos de producción.
